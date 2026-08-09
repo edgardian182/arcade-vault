@@ -18,14 +18,11 @@ The `app/` directory is still the unmodified `create-next-app` scaffold (default
 
 When implementing real pages under `app/`, reimplement this behavior idiomatically for the App Router (Server Components, real routes/segments, proper data fetching) rather than porting the hash-router/localStorage/global-React patterns as-is.
 
-## Commands
-
-- `npm run dev` — start the dev server (Turbopack, on by default in Next 16)
-- `npm run build` — production build (Turbopack by default; fails if a webpack config is present unless `--webpack` is passed)
-- `npm run start` — run the production build
-- `npm run lint` — ESLint via flat config (`eslint.config.mjs`, `eslint-config-next`)
-
 There is no test runner configured in this repo.
+
+## Skills
+
+Always use /frontend-design to design user interfaces
 
 ## Architecture notes
 
