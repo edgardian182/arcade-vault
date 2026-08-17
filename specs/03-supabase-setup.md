@@ -1,6 +1,6 @@
 # SPEC 03 — Conexión de Supabase al proyecto Next.js
 
-> **Estado:** Approved
+> **Estado:** Implemented
 > **Depende de:** Ninguno
 > **Fecha:** 2026-08-17
 > **Objetivo:** Conectar el proyecto Next.js de Arcade Vault al proyecto Supabase ya existente, dejando instalados los clientes oficiales y helpers reutilizables de conexión, sin migrar aún ninguna funcionalidad mock.
